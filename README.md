@@ -33,6 +33,8 @@ Email Me 👉 ✉️ **mnenewilliam26@gmail.com** For Collaboration/Project or A
 ![](https://nirzak-streak-stats.vercel.app/?user=mnene-william&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mnene-william&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31rjaywa2whcael55x3smz75tbku)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mnene-william&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
