@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **mnenewilliam26@gmail.com** For Collaboration/Project or A
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I'm 5'4
 
-## 🔗 I am a Content Creator. 😊😊
+## 🔗 I am a Computer Science Student. 😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
